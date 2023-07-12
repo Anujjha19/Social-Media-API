@@ -76,7 +76,3 @@ To run the tests, use the following command: `npm test`
 - Mongoose
 - JSON Web Tokens (JWT)
 - bcrypt
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or additional features.
